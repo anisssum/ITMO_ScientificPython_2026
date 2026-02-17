@@ -8,7 +8,6 @@ The screenshots are stored as text files using base64 encoding. To convert them 
 
 ### Method 1: Using Command Line (Linux/Mac)
 ```bash
-# Decode a single file
 base64 -d <file_name>.txt > <file_name>.png
 ```
 
